@@ -1,0 +1,54 @@
+Let threshold be 0.5
+How many initail values: 3
+Initail values: 1 0 1
+random weight: w01=w10=0.992004 ,w02=w20=0.74218 ,w12=w21=0.110233
+
+input: 1 0 1
+E= 0.25782
+update: input no.0 to 1
+output: 1 0 1
+
+input: 1 0 1
+E= 0.25782
+update: input no.2 to 1
+output: 1 0 1
+
+input: 1 0 1
+E= 0.25782
+update: input no.2 to 1
+output: 1 0 1
+
+input: 1 0 1
+E= 0.25782
+update: input no.0 to 1
+output: 1 0 1
+
+input: 1 0 1
+E= 0.25782
+update: input no.1 to 1
+output: 1 1 1
+
+input: 1 1 1
+E= -0.344417
+update: input no.2 to 1
+output: 1 1 1
+
+input: 1 1 1
+E= -0.344417
+update: input no.0 to 1
+output: 1 1 1
+
+input: 1 1 1
+E= -0.344417
+update: input no.1 to 1
+output: 1 1 1
+
+input: 1 1 1
+E= -0.344417
+update: input no.2 to 1
+output: 1 1 1
+
+input: 1 1 1
+E= -0.344417
+update: input no.2 to 1
+output: 1 1 1

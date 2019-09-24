@@ -1,0 +1,7 @@
+about 2-page drawing representation:
+according to
+https://www.hindawi.com/journals/jam/2017/7640347/
+A 2-page drawing of G is a representation of G on the plane such that its vertices are placed on a straight horizontal line L according to fixed vertex ordering and its edges are drawn as a semicircle above or below but never cross L.
+
+
+https://www.csun.edu/~ba70714/ExtdAbstSoGC25.pdf
